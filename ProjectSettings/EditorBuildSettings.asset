@@ -8,4 +8,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/InitializeScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/ClassicModeScene.unity
+    guid: f3145b01bfefd5c4dafe0ae4d674b2c4
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 5cf0a19897babaa4cab92fd53e285c3c
+  - enabled: 1
+    path: Assets/Scenes/PianoModeScene.unity
+    guid: 35b562aec50f66449840ad85d4e89a6d
+  - enabled: 1
+    path: Assets/Scenes/SequenceModeScene.unity
+    guid: e1b8a946a58724847a5bb76a0851d933
+  - enabled: 1
+    path: Assets/Scenes/TestScene.unity
+    guid: 10739b2c06397aa459d4934697a3f3a1
   m_configObjects: {}
